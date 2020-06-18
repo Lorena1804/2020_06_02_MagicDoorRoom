@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Maude Unlit LightMapped Screen
+  m_Name: Screens
   m_Shader: {fileID: 4800000, guid: bea8b0b871367a94bb13c763156167ed, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -44,7 +44,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Lightmap:
-        m_Texture: {fileID: 2800000, guid: 50116dbb2a5fb0d4aa1f2c41ed2cd557, type: 3}
+        m_Texture: {fileID: 2800000, guid: 797791f01cf204245a632e53662c1ca3, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
